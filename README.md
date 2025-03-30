@@ -2,11 +2,11 @@
 
 ### Khoa Công Nghệ Thông Tin - Học Viện Hàng Không Việt Nam
 
-## 📗 Đề tài: Hệ Thống Web Nghe Nhạc
+## Đề tài: Hệ Thống Web Nghe Nhạc
 
 ---
 
-## 👨‍💻 Thành viên nhóm:
+## 🧑‍🎓 Thành viên nhóm:
 - **Nguyễn Huỳnh Thiện Tuấn**
 - **Huỳnh Kiến Hưng**
 - **Đỗ Xuân Trung**
@@ -15,7 +15,7 @@
 
 ---
 
-## Công nghệ sử dụng:
+## 💻 Công nghệ sử dụng:
 - ✅ **Xampp**
 - ✅ **React**
 - ✅ **Laravel**
