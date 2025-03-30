@@ -2,16 +2,16 @@
 
 ### Khoa Công Nghệ Thông Tin - Học Viện Hàng Không Việt Nam
 
-## 📗 Đề tài: Hệ Thống Ưeb Nghe Nhạc
+## 📗 Đề tài: Hệ Thống Web Nghe Nhạc
 
 ---
 
 ## 👨‍💻 Thành viên nhóm:
-- **Võ Huỳnh Minh Thư**
-- **Phạm Nguyễn Thùy Trinh**
-- **Tăng Thị Mỹ Lan**
-- **Bùi Khánh Minh**
-- **Trần Phương Uyên**
+- **Nguyễn Huỳnh Thiện Tuấn**
+- **Huỳnh Kiến Hưng**
+- **Đỗ Xuân Trung**
+- **Huỳnh Nguyễn Công Tú**
+- **Nguyễn Thanh Trí**
 
 ---
 
